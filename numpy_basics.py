@@ -30,3 +30,5 @@ print("2D Array (Matrix):\n", matrix)
 # Matrix multiplication
 matrix_mult = np.dot(matrix.T, matrix)  # Matrix multiplication of transpose with original
 print("Matrix multiplication result:\n", matrix_mult)
+
+
