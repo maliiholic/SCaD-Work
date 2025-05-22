@@ -1,0 +1,13 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore test and bytecode caches
+__pycache__/
+.pytest_cache/
+
+# Ignore unnecessary system files
+*.log
+*.tmp

@@ -1,0 +1,7 @@
+name,cnic,expected_result
+John,1234-1234567-1,pass
+James,1234-1234567-2,pass
+6543ohn,1234-1234567-3,fail
+jo-hn,1234-1234567-4,fail
+-john,1234-1234567-5,fail
+9898,abcd-1234567-6,fail
